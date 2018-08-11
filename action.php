@@ -13,5 +13,7 @@ fwrite($file,"\n");
 fclose($file);
 
 ?>
+  <p></p>
+  <p>If you see this message,your file has been changed.</p>
 </body>
 </html>
